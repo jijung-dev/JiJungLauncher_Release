@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+obj/
+bin/
+
+# Debug files
+*.pdb
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# User data
+Saves/
+Screenshots/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Existing manifests
+manifest.json
+version.json
+
+# Launcher cache
+Cache/
+
+# Git
+.git/
+.gitignore

@@ -1,3 +1,24 @@
 {
-  "files": []
+  "files": [
+    {
+      "path": ".manifestignore",
+      "hash": "BE72C42691AEAC2899FF41E3A0506D6FA465A78775C3A56923E539F26C4A00A3",
+      "size": 287
+    },
+    {
+      "path": "JiJungLauncher.deps.json",
+      "hash": "2202B47F2B40317D329B4FCE83842247E47737B88F8B4762A8E3A865DF5660DB",
+      "size": 436
+    },
+    {
+      "path": "JiJungLauncher.dll",
+      "hash": "AF2F48AF20DF6A20F4ECFF15CB818BF1BE3AA69205EEF7281EE547361BBAA791",
+      "size": 53248
+    },
+    {
+      "path": "JiJungLauncher.exe",
+      "hash": "A93BEF359E9D42AC910826D5ECA23B0C9340BA7A57D9A5CAFBC946D0CEE0D4EA",
+      "size": 162304
+    }
+  ]
 }
