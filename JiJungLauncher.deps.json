@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "JiJungLauncher/1.0.0": {
+        "dependencies": {
+          "JiJungLib.App": "1.0.0"
+        },
         "runtime": {
           "JiJungLauncher.dll": {}
+        }
+      },
+      "JiJungLib.App/1.0.0": {
+        "runtime": {
+          "JiJungLib.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "JiJungLauncher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JiJungLib.App/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

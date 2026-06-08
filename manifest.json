@@ -6,19 +6,59 @@
       "size": 287
     },
     {
+      "path": "D3DCompiler_47_cor3.dll",
+      "hash": "A05D04A270F68C8C6D6EA2D23BEBF8CD1D5453B26B5442FA54965F90F1C62082",
+      "size": 4916840
+    },
+    {
       "path": "JiJungLauncher.deps.json",
-      "hash": "2202B47F2B40317D329B4FCE83842247E47737B88F8B4762A8E3A865DF5660DB",
-      "size": 436
+      "hash": "82FA7D4914743E7DE22E83CB8A3C002134C41EDC618BE356B88A117903B02744",
+      "size": 827
     },
     {
       "path": "JiJungLauncher.dll",
-      "hash": "AF2F48AF20DF6A20F4ECFF15CB818BF1BE3AA69205EEF7281EE547361BBAA791",
-      "size": 53248
+      "hash": "5F77E446D9531837F0B244D26B8204E8A894473A36FD03B0F919446BD35B6BC0",
+      "size": 36352
     },
     {
       "path": "JiJungLauncher.exe",
       "hash": "A93BEF359E9D42AC910826D5ECA23B0C9340BA7A57D9A5CAFBC946D0CEE0D4EA",
       "size": 162304
+    },
+    {
+      "path": "JiJungLauncher.runtimeconfig.json",
+      "hash": "96BC2946DFF8790400D652EC7F8DE7BB043E954980D59470C112788B68A1FBD3",
+      "size": 519
+    },
+    {
+      "path": "JiJungLauncherUpdater.exe",
+      "hash": "39C7C7072B04949316F4E901BF9435FF37586570EB1F8EBD1561F83AEF38C9C4",
+      "size": 60628380
+    },
+    {
+      "path": "JiJungLib.App.dll",
+      "hash": "169771C2A0431598690F2A082FE950334285181F840E6BF1B84B1B00DCA2F8D4",
+      "size": 18944
+    },
+    {
+      "path": "PenImc_cor3.dll",
+      "hash": "2A32EAB48B9F44C3FF2EA8018C60779D60B98E36D86D4386945596549F962B07",
+      "size": 157968
+    },
+    {
+      "path": "PresentationNative_cor3.dll",
+      "hash": "2AB47A53C7BB6C7EC37D7A2392BAE99EFE99E8BCF506948F1628F1BB577295ED",
+      "size": 1235720
+    },
+    {
+      "path": "vcruntime140_cor3.dll",
+      "hash": "D5E4D9A3E835FA679450145D6A7D94E36573A509317111904D9B3712C30D9066",
+      "size": 124544
+    },
+    {
+      "path": "wpfgfx_cor3.dll",
+      "hash": "C1C3EDA8E20903D94A6D118813695637D360973A902B181ED086F971A1269AC8",
+      "size": 1951536
     }
   ]
 }
